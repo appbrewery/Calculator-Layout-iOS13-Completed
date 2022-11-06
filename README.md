@@ -4,7 +4,7 @@
 
 These are the steps to achieve this layout:
 
-1. Place all the buttons buttons in horizontal stacks to represent the rows (5 in total) - Stack Properties: Alignment: Fill, Distribution: Fill Equally, Spacing: 1
+1. Place all the buttons in horizontal stacks to represent the rows (5 in total) - Stack Properties: Alignment: Fill, Distribution: Fill Equally, Spacing: 1
 
 ![Image 1](Documentation/Image1.png)
 
@@ -20,7 +20,7 @@ Bronze Medal: Change the constraints set in step 3 to be relative to the Safe Ar
 
 ![Image 4](Documentation/Image4.png)
 
-Silver Modal: If you want the label to have padding on the left and right, you'll need to embed it in a View and then set 2 pin constraints from the label to the view of 20px each side and 2 pic constraints from the top and bottom of 0px.
+Silver Medal: If you want the label to have padding on the left and right, you'll need to embed it in a View and then set 2 pin constraints from the label to the view of 20px each side and 2 pin constraints from the top and bottom of 0px.
 
 ![Image 5](Documentation/Image5.png)
 ![Image 6](Documentation/Image6.png)
