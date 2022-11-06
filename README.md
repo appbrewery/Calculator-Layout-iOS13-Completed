@@ -25,7 +25,7 @@ Silver Medal: If you want the label to have padding on the left and right, you'l
 ![Image 5](Documentation/Image5.png)
 ![Image 6](Documentation/Image6.png)
 
-Gold Medal: If you want the 0 button to take up as much space as the . and =, you'll need to embed the . and = in their own horizontal stack, then embed the 0 and that horizontal stack in a new horizontal stac. This will make the 0 button take up the same space as the other two buttons. Both Horizontal Stacks need to have Distribution set to "Fill Equally".
+Gold Medal: If you want the 0 button to take up as much space as the . and =, you'll need to embed the . and = in their own horizontal stack, then embed the 0 and that horizontal stack in a new horizontal stack. This will make the 0 button take up the same space as the other two buttons. Both Horizontal Stacks need to have Distribution set to "Fill Equally".
 
 ![Image 7](Documentation/Image7.png)
 
